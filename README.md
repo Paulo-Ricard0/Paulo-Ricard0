@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/paulo-ricardo-magalhães" target="_blank">
+  <a href="[www.linkedin.com/in/paulo-ricardo-magalhães](https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:paulobrfc@gmail.com" target="_blank">
