@@ -77,6 +77,4 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 
 </details>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
 </html>
