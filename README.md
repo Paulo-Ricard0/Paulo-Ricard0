@@ -35,6 +35,8 @@
 
 Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.org), uma ONG que oferece formação em programação, soft skills e inglês para jovens pretos e pardos que desejam ingressar no mercado de tecnologia mas não tem condições de ter um ensino de qualidade. Nesse programa, estou aprendendo desenvolvimento web fullstack e utilizando as principais ferramentas e linguagens do mercado. Além disso, também estou aprimorando meu nível de inglês e desenvolvendo competências interpessoais com trabalhos em equipe. Meu objetivo é me tornar um ótimo desenvolvedor e trabalhar em projetos desafiadores que possam causar um impacto positivo na sociedade.
 
-###
+---
+
+
 
 </html>
