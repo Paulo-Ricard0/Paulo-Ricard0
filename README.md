@@ -31,7 +31,7 @@
 - 🌱 Estudando JavaScript, React, NodeJS e Inglês
 - 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
 - 💻 Sou uma pessoa competitiva e amo resolver desafios no CodeWars e HackerRank <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 No meu tempo livre gosto de jogar CSGO
+- 🎮 No meu tempo livre gosto de jogar csgo
 
 ###
 
