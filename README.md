@@ -29,7 +29,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- 🔭 I’m currently working on Mobile and Web Applications
+- 🌱 Learning Data Structures and Algorithms
+- 💬 Interested in open source
+- 😄 Pronouns: He/Him
+- ⚡ Fav. Quote: Create your own reality ✨
 
 ###
 
