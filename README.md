@@ -30,7 +30,7 @@
 - 👨 Tenho 20 anos, sou de Minas Gerais, Brasil
 - 🌱 Estudando JavaScript, React, NodeJS e Inglês
 - 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
-- 💻 Sou competitivo e amo resolver desafios no CodeWars e HackerRank
+- 💻 Sou competitivo e amo resolver desafios no CodeWars e HackerRank <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ###
 
