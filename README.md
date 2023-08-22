@@ -29,9 +29,8 @@
 
 - 👨 Tenho 20 anos, sou de Minas Gerais, Brasil
 - 🌱 Estudando JavaScript, React, NodeJS e Inglês
-- 💬 Interested in open source
-- 😄 Pronouns: He/Him
-- ⚡ Fav. Quote: Create your own reality ✨
+- 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
+- 😄 Pronomes: Ele/Dele
 
 ###
 
