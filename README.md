@@ -77,6 +77,6 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Paulo-Ricard0/Paulo-Ricard0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Paulo-Ricard0/Paulo-Ricard0/output/snake.svg" alt="Snake animation"/>
 
 </html>
