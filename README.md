@@ -11,9 +11,9 @@
 </div>
 
 <div id="badge" align="center">
-  <a href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/></a>
+  <a href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/></a>
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
+  <a href="mailto:paulobrfc@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/></a>
 
   <!-- Visitantes -->
 <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&extraCount=58&color=6272A4&labelColor=9061ed"/></a>
