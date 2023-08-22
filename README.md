@@ -9,6 +9,8 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=A276F9&center=true&vCenter=true&width=490&height=25&lines=Ol%C3%A1+%F0%9F%91%8B%2C+Bem+vindo+ao+meu+perfil!;Sou+um+desenvolvedor+FullStack;Apaixonado+por+programa%C3%A7%C3%A3o+%F0%9F%92%9C" alt="Typing SVG" /></a>
 </p>
 </div>
+
+</br>
 <!-- a -->
   <div id="badges" align="center">
     <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
