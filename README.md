@@ -79,7 +79,7 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Paulo-Ricard0/Paulo-Ricard0/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Paulo-Ricard0/Paulo-Ricard0/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 </html>
