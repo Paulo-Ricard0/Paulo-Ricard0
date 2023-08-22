@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 
   <!-- Visitantes -->
-<a href=""><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&extraCount=58&color=6272A4&labelColor=9061ed"/></a>
+<a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&extraCount=58&color=6272A4&labelColor=9061ed"/></a>
 </div>
 
 ###
