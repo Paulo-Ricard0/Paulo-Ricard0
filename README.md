@@ -1,3 +1,4 @@
+<div id="header">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=435&lines=Paulo+Ricardo" alt="Typing SVG" /></a>
 </p>
@@ -5,6 +6,7 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=A276F9&center=true&vCenter=true&width=490&lines=Ol%C3%A1+%F0%9F%91%8B%2C+Bem+vindo+ao+meu+perfil!;Sou+um+desenvolvedor+FullStack;Apaixonado+por+programa%C3%A7%C3%A3o+%F0%9F%92%9C" alt="Typing SVG" /></a>
 </p>
+</div>
 
 ###
 
