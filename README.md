@@ -22,7 +22,7 @@
     </a>
   </div>
   <div id="header" align="center">
-   <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&extraCount=1&color=6272A4&labelColor=9061ed"/></a>
+    <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&color=6272A4&labelColor=9061ed"/></a>
   </div>
   
 </br>
