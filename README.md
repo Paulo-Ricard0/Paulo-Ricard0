@@ -65,8 +65,14 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 <details open id="stats"> 
   <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricard0&show_icons=true&count_private=true&hide_border=false&title_color=A276F9FF&icon_color=A276F9FF&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Ricardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricard0&layout=compact&hide_border=false&title_color=A276F9FF&text_color=FFFFFF&bg_color=0d1117" />
+ <table style="border:none;margin:0 auto">
+   </br>
+  <tr style="border:none;">
+    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricard0&show_icons=true&count_private=true&hide_border=true&title_color=A276F9FF&icon_color=A276F9FF&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Ricardo github stats"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricard0&hide_border=true&layout=compact&title_color=A276F9FF&text_color=FFFFFF&bg_color=0d1117"/></a></td>
+  </tr>
+</table>
+
 </details>
 
 </html>
