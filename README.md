@@ -1,3 +1,5 @@
+<html>
+
 <div id="header">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=435&lines=Paulo+Ricardo" alt="Typing SVG" /></a>
@@ -10,13 +12,15 @@
 
 ###
 
+<div id="badge">
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </div>
-<div align="center">
   <!-- Visitantes -->
+<div align="center">
   <a href="https://hits.sh/github.com/Paulo-Ricard0/"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&extraCount=58&color=6272A4&labelColor=9061ed"/></a>
+</div>
 </div>
 
 ###
@@ -28,3 +32,5 @@
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
+
+</html>
