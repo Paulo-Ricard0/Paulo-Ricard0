@@ -33,6 +33,8 @@
 - 💻 Sou uma pessoa competitiva e amo resolver desafios no CodeWars e HackerRank <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 No meu tempo livre gosto de jogar csgo com amigos
 
+Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.org), uma ONG que oferece formação em programação, soft skills e inglês para jovens pretos e pardos que desejam ingressar no mercado de tecnologia. Nesse programa, estou aprendendo desenvolvimento web Full Stack, utilizando as principais ferramentas e linguagens do mercado, como HTML, CSS, JavaScript, React, Node.js, entre outras. Além disso, estou aprimorando meu nível de inglês e desenvolvendo competências interpessoais com trabalhos em equipe.
+
 ###
 
 </html>
