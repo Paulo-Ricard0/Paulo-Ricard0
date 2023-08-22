@@ -38,4 +38,10 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 ---
 
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></h3>
+ 
+<img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
+<img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
+
+
+
 </html>
