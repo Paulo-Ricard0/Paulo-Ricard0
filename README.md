@@ -82,4 +82,12 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Paulo-Ricard0/Paulo-Ricard0/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+<br><br>
+
+<div align="center" font-size="12px">
+
+Feito com 💜 por [Paulo Ricardo](https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es)
+
+</div>
+
 </html>
