@@ -37,6 +37,11 @@
 
 Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.org), uma ONG que oferece formação em programação, soft skills e inglês para jovens pretos e pardos que desejam ingressar no mercado de tecnologia mas não tem condições de ter um ensino de qualidade. Nesse programa, estou aprendendo desenvolvimento web full stack e utilizando as principais ferramentas e linguagens do mercado. Além disso, também estou aprimorando meu nível de inglês e desenvolvendo competências interpessoais com trabalhos em equipe. Meu objetivo é me tornar um ótimo desenvolvedor e trabalhar em projetos desafiadores que possam causar um impacto positivo na sociedade.
 
+<details>
+<summary>Clique aqui para ter uma surpresa!</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
+
 ---
 
 <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
