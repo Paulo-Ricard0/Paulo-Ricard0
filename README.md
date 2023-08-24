@@ -1,8 +1,8 @@
 <html>
 
 <table>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+ <tr><td><a href="https://github.com/Paulo-Ricard0"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Paulo-Ricard0"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px"> Português</a></td></tr>
 </table>
 
 <div id="header">
