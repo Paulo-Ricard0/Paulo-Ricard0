@@ -1,6 +1,9 @@
 <html>
 
-</br>
+<table>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
 
 <div id="header">
 <p align="center">
@@ -13,29 +16,22 @@
 </div>
 
 </br>
-<!-- a -->
-  <div id="badges" align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
-    </a>
-    </a>
-    <a target="_blank" href="mailto:paulobrfc@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
-    </a>
-  </div>
+
+<div id="badges" align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
+  </a>
+  </a>
+  <a target="_blank" href="mailto:paulobrfc@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
+  </a>
+</div>
   <div id="header" align="center">
     <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&color=6272A4&labelColor=9061ed"/></a>
   </div>
 
-
-
----
-
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
-
+</br></br>
+  
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
 
 - 👨 Tenho 20 anos, sou de Minas Gerais, Brasil
