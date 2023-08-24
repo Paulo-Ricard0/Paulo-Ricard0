@@ -1,9 +1,6 @@
 <html>
 
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
+</br>
 
 <div id="header">
 <p align="center">
@@ -31,6 +28,12 @@
   </div>
 
 </br></br>
+
+
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
 
