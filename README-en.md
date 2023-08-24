@@ -47,7 +47,7 @@ I am currently studying at [Programadores do Amanhã](https://programadoresdoama
 
 ---
 
-<a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Skills+and+Tools" alt="Typing SVG" /></a>
+<a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=190&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Skills+and+Tools" alt="Typing SVG" /></a>
 
 <div id="Skills" align="left">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
