@@ -27,8 +27,9 @@
     <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&color=6272A4&labelColor=9061ed"/></a>
   </div>
 
-</br></br>
 
+
+---
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
