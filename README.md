@@ -5,8 +5,6 @@
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
----
-
 <div id="header">
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Paulo+Ricardo" alt="Paulo Ricardo" /></a>
