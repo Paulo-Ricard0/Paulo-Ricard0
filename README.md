@@ -15,7 +15,6 @@
 </p>
 </div>
 
-</br>
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
@@ -30,7 +29,7 @@
     <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitantes&color=6272A4&labelColor=9061ed"/></a>
   </div>
 
-</br></br>
+</br>
   
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
 
