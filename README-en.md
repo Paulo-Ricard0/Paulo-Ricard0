@@ -32,13 +32,13 @@
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
 
-- 👨 I am 20 years old, from Minas Gerais, Brazil
-- 🌱 Studying JavaScript, TypeScript, React, Node.JS, and English
-- 💬 Ask me anything, I love exchanging knowledge
-- 💻 I am a competitive person and love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 No meu tempo livre gosto de jogar csgo com amigos
+- 👨 I am 20 years old, from Minas Gerais, Brazil.
+- 🌱 Studying JavaScript, TypeScript, React, Node.JS, and English.
+- 💬 Ask me anything, I love exchanging knowledge.
+- 💻 I am a competitive person and love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎮 No meu tempo livre gosto de jogar csgo com amigos.
 
-I am currently studying at [Programadores do Amanhã](https://programadoresdoamanha.org), an NGO that offers training in programming, soft skills, and English for young black and brown people who want to enter the technology market but do not have the means to have quality education. In this program, I am learning full stack web development and using the main tools and languages in the market. In addition, I am also improving my English level and developing interpersonal skills with teamwork. My goal is to become a great developer and work on challenging projects that can have a positive impact on society
+I am currently studying at [Programadores do Amanhã](https://programadoresdoamanha.org), an NGO that offers training in programming, soft skills, and English for young people who wish to enter the technology market. In the program, I am learning full stack web development and using the main tools and languages in the market. In addition, I am also improving my English level and developing interpersonal skills with teamwork. My goal is to continue learning and developing as a developer, and to work on challenging projects that have a positive impact on society.
 
 <details>
 <summary>Click here for a surprise!</summary>
