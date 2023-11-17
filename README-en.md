@@ -33,7 +33,7 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
 
 - 👨 I am 20 years old, from Minas Gerais, Brazil
-- 🌱 Studying JavaScript, React, Node.JS, and English
+- 🌱 Studying JavaScript, TypeScript, React, Node.JS, and English
 - 💬 Ask me anything, I love exchanging knowledge
 - 💻 I am a competitive person and love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 No meu tempo livre gosto de jogar csgo com amigos
