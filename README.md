@@ -37,7 +37,7 @@
 - 🌱 Estudando JavaScript, TypeScript, React, Node.JS e Inglês
 - 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
 - 💻 Sou uma pessoa competitiva e amo resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 No meu tempo livre gosto de jogar cs2 com amigos
+- 🎮 No meu tempo livre gosto de jogar CS2 com amigos
 
 Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.org), uma ONG que oferece formação em programação, soft skills e inglês para jovens que desejam ingressar no mercado de tecnologia. No programa, estou aprendendo desenvolvimento web full stack e utilizando as principais ferramentas e linguagens do mercado. Além disso, também estou aprimorando meu nível de inglês e desenvolvendo competências interpessoais com trabalhos em equipe. Meu objetivo é continuar aprendendo e me desenvolvendo como desenvolvedor, e trabalhar em projetos desafiadores que causem um impacto positivo na sociedade.
 
