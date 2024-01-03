@@ -54,6 +54,9 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
     <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
       <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
     </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
+      <img src="https://img.shields.io/static/v1?message=.NET&logo=.net&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
+    </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
     </a>
