@@ -52,10 +52,10 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 
 <div id="Skills" align="left">
     <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
-      <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
+      <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="c# logo"/>
     </a>
     <a href="https://dotnet.microsoft.com/pt-br/">
-      <img src="https://img.shields.io/static/v1?message=.NET&logo=.net&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
+      <img src="https://img.shields.io/static/v1?message=.NET&logo=.net&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt=".net logo"/>
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
@@ -69,11 +69,17 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
     <a href="https://nodejs.org/docs/latest-v18.x/api/index.html">
       <img src="https://img.shields.io/static/v1?message=Node.JS&logo=node.js&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
     </a>
-    <a href="">
-      <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
+    <a href="https://expressjs.com/">
+      <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="express logo"/>
+    </a>
+    <a href="https://dev.mysql.com/doc/">
+      <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
     </a>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
+    </a>
+    <a href="https://docs.docker.com/desktop/">
+      <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="docker logo"/>
     </a>
   </div>
 
