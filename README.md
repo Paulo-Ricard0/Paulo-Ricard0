@@ -51,6 +51,9 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
 <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
 
 <div id="Skills" align="left">
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
+      <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
+    </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
     </a>
@@ -59,9 +62,6 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="javascript logo"/>
-    </a>
-    <a href="https://react.dev/">
-      <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="react logo"/>
     </a>
     <a href="https://nodejs.org/docs/latest-v18.x/api/index.html">
       <img src="https://img.shields.io/static/v1?message=Node.JS&logo=node.js&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
