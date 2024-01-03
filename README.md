@@ -36,10 +36,8 @@
 - 👨 Tenho 20 anos, sou de Minas Gerais, Brasil
 - 🌱 Estudando C#, .NET, TypeScript, Node.JS e Inglês
 - 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
-- 💻 Sou uma pessoa competitiva e amo resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 Amo resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 No meu tempo livre gosto de jogar CS2 com amigos
-
-Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.org), uma ONG que oferece formação em programação, soft skills e inglês para jovens que desejam ingressar no mercado de tecnologia. No programa, estou aprendendo desenvolvimento web full stack e utilizando as principais ferramentas e linguagens do mercado. Além disso, também estou aprimorando meu nível de inglês e desenvolvendo competências interpessoais com trabalhos em equipe. Meu objetivo é continuar aprendendo e me desenvolvendo como desenvolvedor, e trabalhar em projetos desafiadores que causem um impacto positivo na sociedade.
 
 <details>
 <summary>Clique aqui para ter uma surpresa!</summary>
@@ -57,12 +55,6 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
     <a href="https://dotnet.microsoft.com/pt-br/">
       <img src="https://img.shields.io/static/v1?message=.NET&logo=.net&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt=".net logo"/>
     </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="css logo"/>
-    </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="javascript logo"/>
     </a>
@@ -74,6 +66,12 @@ Atualmente estudo no [Programadores do Amanhã](https://programadoresdoamanha.or
     </a>
     <a href="https://dev.mysql.com/doc/">
       <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="css logo"/>
     </a>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
