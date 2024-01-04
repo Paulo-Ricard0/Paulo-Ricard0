@@ -36,7 +36,7 @@
 - 👨 Tenho 20 anos, sou de Minas Gerais, Brasil
 - 🌱 Estudando C#, .NET, TypeScript, Node.JS e Inglês
 - 💬 Me pergunte sobre qualquer coisa, adoro trocar conhecimentos
-- 💻 Amo resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 Adoro resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 No meu tempo livre gosto de jogar CS2 com amigos
 
 <details>
