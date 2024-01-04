@@ -83,18 +83,7 @@
 
 ---
 
-<details open id="stats"> 
-  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
 
- <table style="border:none;margin:0 auto">
-   </br>
-  <tr style="border:none;">
-    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricard0&show_icons=true&disable_animations=true&rank_icon=github&include_all_commits=false&count_private=true&hide_border=true&title_color=A276F9FF&icon_color=A276F9FF&text_color=e3deee&bg_color=00000000"/></td>
-    <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricard0&layout=compact&langs_count=7&disable_animations=true&hide_border=true&title_color=A276F9FF&text_color=ffffff&bg_color=00000000&card_width=400"/></td>
-  </tr>
-</table>
-
-</details>
 
 <div align="center">
   <br>
