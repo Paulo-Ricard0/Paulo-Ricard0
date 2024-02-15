@@ -40,7 +40,7 @@
 - 🎮 No meu tempo livre gosto de jogar CS2 com amigos
 
 <details>
-<summary>Clique aqui!</summary>
+<summary>Não clique aqui!</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
