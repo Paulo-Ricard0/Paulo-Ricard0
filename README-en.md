@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=A276F9&center=true&vCenter=true&width=490&height=25&lines=Hello+%F0%9F%91%8B%2C+welcome+to+my+profile!;I+am+a+Full+Stack+developer;Passionate+about+programming+%F0%9F%92%9C" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=A276F9&center=true&vCenter=true&width=490&height=25&lines=Hello+%F0%9F%91%8B%2C+welcome+to+my+profile!;I+am+a+Back-end+developer;Passionate+about+programming+%F0%9F%92%9C" alt="Typing SVG" /></a>
 </p>
 </div>
 
@@ -32,14 +32,13 @@
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
 
-- 👨 I am 20 years old, from Minas Gerais, Brazil.
 - 🌱 Studying C#, .NET, TypeScript, Node.JS, and English.
 - 💬 Ask me anything, I love exchanging knowledge.
 - 💻 I love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 In my free time I like to play CS2 with friends.
 
 <details>
-<summary>Click here for a surprise!</summary>
+<summary>Don't click here.</summary>
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
@@ -57,20 +56,26 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
       <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="javascript logo"/>
     </a>
+    <a href="https://www.typescriptlang.org/">
+     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-9061ed?style=for-the-badge&logo=typescript&logoColor=white">
+    </a>
     <a href="https://nodejs.org/docs/latest-v18.x/api/index.html">
       <img src="https://img.shields.io/static/v1?message=Node.JS&logo=node.js&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
     </a>
     <a href="https://expressjs.com/">
       <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="express logo"/>
     </a>
+    <a href="https://nestjs.com/">
+     <img alt="NESTJS" src="https://img.shields.io/badge/nestjs-9061ed?style=for-the-badge&logo=nestjs&logoColor=white">
+    </a>
+    <a href="https://typeorm.io/">
+     <img alt="TYPEORM" src="https://img.shields.io/badge/typeorm-9061ed?style=for-the-badge&logo=type-orm&logoColor=white">
+    </a>
     <a href="https://dev.mysql.com/doc/">
       <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
     </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="css logo"/>
+    <a href="https://www.postgresql.org/">
+     <img alt="POSTGRE" src="https://img.shields.io/badge/postgresql-9061ed?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
@@ -89,7 +94,7 @@
    </br>
   <tr style="border:none;">
     <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-Ricard0&show_icons=true&disable_animations=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=A276F9FF&icon_color=A276F9FF&text_color=e3deee&bg_color=00000000"/></td>
-    <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricard0&layout=compact&langs_count=7&disable_animations=true&hide_border=true&title_color=A276F9FF&text_color=ffffff&bg_color=00000000&card_width=400"/></td>
+<!--     <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Ricard0&layout=compact&langs_count=7&disable_animations=true&hide_border=true&title_color=A276F9FF&text_color=ffffff&bg_color=00000000&card_width=400"/></td> -->
   </tr>
 </table>
 
