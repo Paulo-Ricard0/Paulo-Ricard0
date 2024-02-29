@@ -67,12 +67,6 @@
     <a href="https://dev.mysql.com/doc/">
       <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
     </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="html logo"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="css logo"/>
-    </a>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
     </a>
