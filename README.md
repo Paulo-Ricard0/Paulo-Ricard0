@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="javascript logo"/>
     </a>
     <a href="https://www.typescriptlang.org/">
-     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-ff5522?style=for-the-badge&logo=typescript&logoColor=white">
+     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-9061ed?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
     <a href="https://nodejs.org/docs/latest-v18.x/api/index.html">
       <img src="https://img.shields.io/static/v1?message=Node.JS&logo=node.js&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
@@ -68,16 +68,16 @@
       <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="express logo"/>
     </a>
     <a href="https://nestjs.com/">
-     <img alt="NESTJS" src="https://img.shields.io/badge/nestjs-ff5522?style=for-the-badge&logo=nestjs&logoColor=white">
+     <img alt="NESTJS" src="https://img.shields.io/badge/nestjs-9061ed?style=for-the-badge&logo=nestjs&logoColor=white">
     </a>
     <a href="https://typeorm.io/">
-     <img alt="TYPEORM" src="https://img.shields.io/badge/typeorm-ff5522?style=for-the-badge&logo=type-orm&logoColor=white">
+     <img alt="TYPEORM" src="https://img.shields.io/badge/typeorm-9061ed?style=for-the-badge&logo=type-orm&logoColor=white">
     </a>
     <a href="https://dev.mysql.com/doc/">
       <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
     </a>
     <a href="https://www.postgresql.org/">
-     <img alt="POSTGRE" src="https://img.shields.io/badge/postgresql-ff5522?style=for-the-badge&logo=postgresql&logoColor=white">
+     <img alt="POSTGRE" src="https://img.shields.io/badge/postgresql-9061ed?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
