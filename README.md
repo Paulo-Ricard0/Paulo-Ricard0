@@ -39,10 +39,10 @@
 - 💻 Adoro resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 No meu tempo livre gosto de jogar CS2 com amigos
 
-<details>
+<!-- <details>
 <summary>Não clique aqui.</summary>
 <img src="https://cat-gifs.cyclic.app">
-</details>
+</details> -->
 
 ---
 
