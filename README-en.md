@@ -36,7 +36,6 @@
 - 📚 Graduating in Software Engineering
 - 💬 Ask me anything, I love exchanging knowledge.
 - 💻 I love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 In my free time I like to play CS2 with friends.
 
 <!-- <details>
 <summary>Don't click here.</summary>
