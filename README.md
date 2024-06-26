@@ -37,7 +37,6 @@
 - 📚 Graduando em Engenharia de Software
 - 💬 Me pergunte sobre qualquer coisa, estou sempre aberto a trocas de conhecimentos
 - 💻 Adoro resolver desafios no [CodeWars](https://www.codewars.com/) e [HackerRank](https://www.hackerrank.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 No meu tempo livre gosto de jogar CS2 com amigos
 
 <!-- <details>
 <summary>Não clique aqui.</summary>
