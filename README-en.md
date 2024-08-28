@@ -20,22 +20,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
   </a>
   </a>
-  <a target="_blank" href="mailto:paulobrfc@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
-  </a>
 </div>
-  <div id="header" align="center">
-    <a href="#"><img alt="Hits" src="https://hits.sh/github.com/Paulo-Ricard0.svg?style=for-the-badge&label=Visitors&color=6272A4&labelColor=9061ed"/></a>
-  </div>
 
 </br></br>
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
 
-- 🌱 Studying C#, .NET, English.
+- 🌱 Studying C#, .NET, English, Automation
 - 📚 Graduating in Software Engineering
-- 💬 Ask me anything, I love exchanging knowledge.
-- 💻 I love solving challenges on [CodeWars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me anything, I love exchanging knowledge
 
 <!-- <details>
 <summary>Don't click here.</summary>
@@ -64,12 +57,6 @@
     </a>
     <a href="https://expressjs.com/">
       <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="express logo"/>
-    </a>
-    <a href="https://nestjs.com/">
-     <img alt="NESTJS" src="https://img.shields.io/badge/nestjs-9061ed?style=for-the-badge&logo=nestjs&logoColor=white">
-    </a>
-    <a href="https://typeorm.io/">
-     <img alt="TYPEORM" src="https://img.shields.io/badge/typeorm-9061ed?style=for-the-badge&logo=type-orm&logoColor=white">
     </a>
     <a href="https://dev.mysql.com/doc/">
       <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
