@@ -57,9 +57,9 @@
 - **xUnit**
 
 ### Bancos de Dados
+- **SQLServer**
 - **MySQL**
 - **PostgreSQL**
-- **SQLServer**
 
 ### Versionamento de código
 - **Git**
