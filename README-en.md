@@ -37,44 +37,47 @@
 
 ---
 
+<details>
+ <summary>
 <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=190&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Skills+and+Tools" alt="Typing SVG" /></a>
+ </summary>
 
-<div id="Skills" align="left">
-    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
-      <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="c# logo"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/pt-br/">
-      <img src="https://img.shields.io/static/v1?message=.NET&logo=.net&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt=".net logo"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="javascript logo"/>
-    </a>
-    <a href="https://www.typescriptlang.org/">
-     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-9061ed?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
-    <a href="https://nodejs.org/docs/latest-v18.x/api/index.html">
-      <img src="https://img.shields.io/static/v1?message=Node.JS&logo=node.js&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="node.js logo"/>
-    </a>
-    <a href="https://expressjs.com/">
-      <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="express logo"/>
-    </a>
-    <a href="https://dev.mysql.com/doc/">
-      <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="mysql logo"/>
-    </a>
-    <a href="https://www.postgresql.org/">
-     <img alt="POSTGRE" src="https://img.shields.io/badge/postgresql-9061ed?style=for-the-badge&logo=postgresql&logoColor=white">
-    </a>
-    <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="git logo"/>
-    </a>
-    <a href="https://docs.docker.com/desktop/">
-      <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=9061ed&logoColor=white&labelColor=&style=for-the-badge" alt="docker logo"/>
-    </a>
-  </div>
+### Programming Languages
+- **C#**
+- **JavaScript**
+- **TypeScript**
+
+### Frameworks and Platforms
+- **.NET**
+- **ASP.NET Core**
+- **Entity Framework Core**
+- **Node.js**
+
+### Automated Testing
+- **xUnit**
+
+### Databases
+- **SQLServer**
+- **MySQL**
+- **PostgreSQL**
+
+### Code versioning
+- **Git**
+
+### Virtualization and Containers
+- **Docker**
+
+### Messaging
+- **RabbitMQ**
+
+### Cloud
+- **AWS**
+- **Google Cloud**
+</details>
 
 ---
 
-<details open id="stats"> 
+<details open id="stats1"> 
   <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
 
  <table style="border:none;margin:0 auto">
