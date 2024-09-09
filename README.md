@@ -25,7 +25,7 @@
 
 </br></br>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
+<a href="#About"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
 
 - 🌱 Estudando C#, .NET, Inglês, Automation
 - 📚 Graduando em Engenharia de Software
@@ -39,7 +39,7 @@
 ---
 <details open>
  <summary>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
+  <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=295&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
  </summary>
 
 ### Linguagens de Programação
@@ -77,8 +77,8 @@
 
 ---
 
-<details open id="stats"> 
-  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
+<details closed id="stats"> 
+  <summary><a href="#Stats"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
 
  <table style="border:none;margin:0 auto">
    </br>
