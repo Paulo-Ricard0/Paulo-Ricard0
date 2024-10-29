@@ -51,7 +51,6 @@
 - **.NET**
 - **ASP.NET Core**
 - **Entity Framework Core**
-- **Node.js**
 
 ### Automated Testing
 - **xUnit**
