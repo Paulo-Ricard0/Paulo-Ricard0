@@ -33,36 +33,27 @@
     <h2>Skills and tools</h2>
   </summary>
 
-### Programming Languages
+### Technologies
 - **C#**
+- **.NET**
+- **ASP.NET Core**
+- **AWS**
+- **Entity Framework Core**
+- **xUnit**
+- **Docker**
+- **RabbitMQ**
+- **Git**
 - **JavaScript**
 - **TypeScript**
 
-### Frameworks and Platforms
-- **.NET**
-- **ASP.NET Core**
-- **Entity Framework Core**
-
-### Automated Testing
-- **xUnit**
-
-### Databases
+### Bancos de Dados
 - **SQLServer**
 - **MySQL**
 - **PostgreSQL**
 
-### Code versioning
-- **Git**
-
-### Virtualization and Containers
-- **Docker**
-
-### Messaging
-- **RabbitMQ**
-
-### Cloud
-- **AWS**
-- **Google Cloud**
+### Metodologias
+- **Scrum**
+- **Kanban**
 </details>
 
 </html>
