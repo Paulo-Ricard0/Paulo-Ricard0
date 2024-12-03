@@ -46,12 +46,12 @@
 - **JavaScript**
 - **TypeScript**
 
-### Bancos de Dados
+### Databases
 - **SQLServer**
 - **MySQL**
 - **PostgreSQL**
 
-### Metodologias
+### Methodologies
 - **Scrum**
 - **Kanban**
 </details>
