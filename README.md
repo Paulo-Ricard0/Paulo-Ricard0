@@ -33,36 +33,27 @@
      <h2>Habilidades e ferramentas</h2>
    </summary>
 
-### Linguagens de Programação
+### Tecnologias
 - **C#**
-- **JavaScript**
-- **TypeScript**
-
-### Frameworks e Plataformas
 - **.NET**
 - **ASP.NET Core**
+- **AWS**
 - **Entity Framework Core**
-
-### Testes Automatizados
 - **xUnit**
+- **Docker**
+- **RabbitMQ**
+- **Git**
+- **JavaScript**
+- **TypeScript**
 
 ### Bancos de Dados
 - **SQLServer**
 - **MySQL**
 - **PostgreSQL**
 
-### Versionamento de código
-- **Git**
-
-### Virtualização e Containers
-- **Docker**
-
-### Mensageria
-- **RabbitMQ**
-
-### Cloud
-- **AWS**
-- **Google Cloud**
+### Metodologias
+- **Scrum**
+- **Kanban**
 </details>
 
 </html>
