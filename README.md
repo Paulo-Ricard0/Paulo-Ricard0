@@ -1,21 +1,20 @@
 <html>
 
 <table>
- <tr><td><a href="README-en.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Paulo-Ricard0"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px"> Português</a></td></tr>
+  <tr><td><a href="README-en.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+  <tr><td><a href="https://github.com/Paulo-Ricard0"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px"> Português</a></td></tr>
 </table>
 
 <div id="header">
-<h2 align="center">
-Paulo Ricardo | Desenvolvedor Backend
-</h2>
+  <h2 align="center">
+    Paulo Ricardo | Desenvolvedor Backend
+  </h2>
 </div>
 
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4089ea&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
-  </a>
   </a>
 </div>
 
@@ -28,10 +27,11 @@ Paulo Ricardo | Desenvolvedor Backend
 - 💬 Me pergunte sobre qualquer coisa, estou sempre aberto a trocas de conhecimentos
 
 ---
+
 <details>
- <summary>
- <h2>Habilidades e ferramentas</h2>
- </summary>
+   <summary>
+     <h2>Habilidades e ferramentas</h2>
+   </summary>
 
 ### Linguagens de Programação
 - **C#**
