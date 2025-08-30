@@ -13,7 +13,7 @@
 
 
 <div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalh%C3%A3es">
+  <a target="_blank" href="https://www.linkedin.com/in/paulo-ricardo-magalhaes/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4089ea&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
   </a>
 </div>
