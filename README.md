@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-- 🌱 Estudando **C#**, **.NET**, **Inglês**, **Automação de processos**
+- 🌱 Estudando **C#**, **.NET**, **Inglês**, **System design**
 - 📚 Graduando em **Engenharia de Software**
 - 💬 Me pergunte sobre qualquer coisa, estou sempre aberto a trocas de conhecimentos
 
